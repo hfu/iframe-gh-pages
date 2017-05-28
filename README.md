@@ -2,4 +2,4 @@
 gh-pages で自動的に HTML に変換してくれる機能において、iframe 使えることを確認。
 
 ## 国連 Web TV (24時間ライブ）
-<iframe src="https://youtube.com/embed/-zbZCIIHl2Q"></iframe>
+<iframe width="100%" src="https://youtube.com/embed/-zbZCIIHl2Q"></iframe>
